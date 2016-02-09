@@ -22,7 +22,8 @@
 
 ###三. 高级用法：
 
-高级用法是在不勾选 `启用系统代理` 的基础上进行的。shadowsocks在打开之时就已经开了一个本地代理端口 http://127.0.0.1:1080，接下来就配合chrome扩展[SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)使用shadowsocks。
+高级用法是在不勾选 `启用系统代理` 的基础上进行的。
+shadowsocks在打开之时就已经开了一个本地代理端口 http://127.0.0.1:1080，接下来就配合chrome扩展 [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) 使用shadowsocks。
 SwitchyOmega中有四种情景模式，本文介绍前三种模式，第四种“虚情景模式”笔者也不知道如何使用。
 ![此处输入图片的描述][4]
 在设置好每一个情景模式后注意点击 `应用选项` 保存你的设置。
