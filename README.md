@@ -7,7 +7,7 @@
 
 ###一. 准备工作：
 
-1. 从[shadowsocks官网](http://www.shadowsocks.org)下载一个适合你电脑版本的文件。备用下载地址：[百度云](http://pan.baidu.com/s/1tzNWU)
+1. 从[shadowsocks官网](http://www.shadowsocks.org)下载一个适合你电脑版本的文件。[备用下载地址](https://raw.githubusercontent.com/ojawo/shadowsocks-/master/Shadowsocks-win-2.5.2.zip)
 2. 下载之后解压，打开shadowsocks客户端。
 3. 在如图所示的shadowsocks客户端中填入你的服务器IP、端口、密码、加密方式后点击 `添加` 按钮。*（免费的shadowsocks账号可从网上搜索得到，也可自己买一个vps后自己搭建shadowsocks服务器端，详见[史上最详尽Shadowsocks从零开始一站式翻墙教程](http://shadowsocks.blogspot.com/2015/01/shadowsocks.html)）*
 ![此处输入图片的描述][1]
